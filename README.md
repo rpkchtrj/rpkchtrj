@@ -87,7 +87,9 @@ Some of the work I'm most interested in sits at the intersection of **high throu
 
 ## 🌌 Aether Workflow
 
-I'm also building **Aether Workflow**, a portable AI-assisted engineering workflow designed around human-owned requirements, architecture decisions, verification, adversarial testing, security reasoning, and learning.
+**Aether Workflow** is a public, reusable AI-assisted engineering workflow built
+around human-owned requirements, architecture decisions, verification,
+adversarial testing, security reasoning, and learning.
 
 The idea is simple:
 
